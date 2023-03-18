@@ -10,20 +10,40 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <loc>https://example.com/authors/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/authors/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tag/academic/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/authors/admin/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/category/demo/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/git/gitttttt/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/last-week-post/</loc>
@@ -47,10 +67,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -103,9 +119,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/admin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
